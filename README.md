@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- FOTO PROFIL -->
-  <img src="6143362178019429188_121-removebg-preview (1).jpg" 
+  <img src="pp.jpg" 
        alt="Profile Picture" 
        width="140" 
        style="border-radius: 50%; border: 2px solid #555;" />
