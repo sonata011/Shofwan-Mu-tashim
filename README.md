@@ -7,7 +7,7 @@
        style="border-radius: 50%; border: 2px solid #555;" />
 </p>
 
-<h1 align="center">Hi, I'm Sonata 👋</h1>
+<h1 align="center">Hi, I'm Shofwan Mu'tashim 👋</h1>
 
 <p align="center">
   Web Developer • Problem Solver • Tech Enthusiast <br/>
@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/shofwvn">Instagram</a> •
-  <a href="mailto:shofwvn@gmail.com">Email</a>
+
 </p>
 
 ## 🌐 Socials:
