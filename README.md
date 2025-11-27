@@ -1,5 +1,22 @@
+
 <p align="center">
-  <img src="https://link-foto-kamu.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  <!-- FOTO PROFIL -->
+  <img src="https://raw.githubusercontent.com/sonata011/sonata011/main/profile.jpg" 
+       alt="Profile Picture" 
+       width="140" 
+       style="border-radius: 50%; border: 2px solid #555;" />
+</p>
+
+<h1 align="center">Hi, I'm Sonata 👋</h1>
+
+<p align="center">
+  Web Developer • Problem Solver • Tech Enthusiast <br/>
+  Passionate about building fast, scalable, and clean web applications.
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/shofwvn">Instagram</a> •
+  <a href="mailto:shofwvn@gmail.com">Email</a>
 </p>
 
 ## 🌐 Socials:
