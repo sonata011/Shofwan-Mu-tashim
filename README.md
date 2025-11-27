@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- FOTO PROFIL -->
-  <img src="https://raw.githubusercontent.com/sonata011/sonata011/main/profile.jpg" 
+  <img src="[https://raw.githubusercontent.com/sonata011/sonata011/main/profile.jpg](https://github.com/sonata011/photo/commit/c6e17cefa07f4d97476e7c4071f37287f09ed110#diff-1cd90a9f1a40b0c127fa6f0b6b48495a24d04af98c44386642e9834aacb33644)" 
        alt="Profile Picture" 
        width="140" 
        style="border-radius: 50%; border: 2px solid #555;" />
