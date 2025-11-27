@@ -1,11 +1,12 @@
 
 <p align="center">
-  <!-- FOTO PROFIL -->
   <img src="pp.jpg" 
-       alt="Profile Picture" 
-       width="140" 
-       style="border-radius: 50%; border: 2px solid #555;" />
+       alt="Profile Picture"
+       width="140"
+       height="140"
+       style="border-radius: 50%; object-fit: cover; border: 2px solid #555;" />
 </p>
+
 
 <h1 align="center">Hi, I'm Shofwan Mu'tashim 👋</h1>
 
