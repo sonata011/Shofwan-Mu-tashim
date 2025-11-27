@@ -12,3 +12,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sonata011&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🧰 Tools I Use
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
