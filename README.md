@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://link-foto-kamu.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shofwvn) 
